@@ -39,13 +39,15 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 
 ### On-Premises Network Topology
 
-[Image]
+<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
+
 
 Description
 
 ### Azure Resource Architecture
 
-[Image]
+<img width="704" height="652" alt="Azure-Resource-Architecture" src="https://github.com/user-attachments/assets/d0dde045-a276-401c-8a67-ee1afbf4bccc" />
+
 
 Description
 
