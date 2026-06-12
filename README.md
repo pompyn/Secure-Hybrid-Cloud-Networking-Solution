@@ -103,7 +103,11 @@ Connectivity testing was performed to verify both permitted and restricted commu
 * VLAN10 → VLAN20: Blocked
 * VLAN10 → VLAN30: Blocked
 
+![VLAN10](images/vlan10.png)
 
+![VLAN20](images/vlan20.png)
+
+![VLAN30](images/vlan30.png)
 ![VLAN10](img width="589" height="415" alt="VLAN10" src="https://github.com/user-attachments/assets/fa8f795d-8ece-4e45-848d-143e0261c622" /)
 
 
