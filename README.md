@@ -1,3 +1,4 @@
+
 # Secure-Hybrid-Cloud-Networking-Solution
 ### 🌐 Secure Hybrid Cloud Networking Solution
 
@@ -14,8 +15,6 @@
 - Network Troubleshooting
 
 #### Project Overview
-
-## Project Overview
 
 This project demonstrates the design and implementation of a secure hybrid cloud networking solution integrating an on-premises environment with Microsoft Azure. The solution uses VLAN segmentation, firewall policies, DHCP services, and Azure networking components to support secure communication while maintaining separation between departmental workloads.
 
@@ -35,14 +34,6 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 <img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/19f6a056-e0c4-435f-b352-3a7691ec5105" />
 
 
-## Architecture Overview
-
-### On-Premises Network Topology
-
-<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
-
-
-Description
 
 ### Azure Resource Architecture
 
@@ -77,8 +68,9 @@ Description
 
 #### Architecture Overview
 
-The on-premises environment consists of three departmental VLANs connected through a Layer 3 router and integrated with Azure resources through hybrid connectivity. The Azure environment utilizes a Virtual Network, secured subnet, and Network Security Group to host cloud workloads while maintaining secure communication with on-premises resources.
+### On-Premises Network Topology
 
+<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
 #### Security Features
 
 * VLAN-based network isolation
