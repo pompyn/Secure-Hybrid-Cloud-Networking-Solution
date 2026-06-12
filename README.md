@@ -72,8 +72,6 @@ The Azure environment extends the on-premises network into the cloud while maint
 The solution was validated through structured testing including VLAN segmentation verification, DHCP lease validation, routing table inspection, firewall rule testing, and inter-VLAN connectivity testing. Testing artifacts and screenshots were documented as part of the project deliverables.
 ## Security Features
 
-## Validation & Testing
-
 ### VLAN Segmentation Validation
 
 Validation confirmed that VLAN10, VLAN20, and VLAN30 were configured with unique subnets and gateways to maintain network segmentation and controlled communication.
