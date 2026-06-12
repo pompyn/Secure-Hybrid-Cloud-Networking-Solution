@@ -17,6 +17,9 @@ Designed and implemented a secure hybrid cloud networking solution using Azure a
 * GovOps VLAN
 * CivOps VLAN
 * ITAdmin VLAN
+
+  The on-premises environment was designed to simulate a segmented enterprise network supporting multiple departments while maintaining controlled communication through routing and security policies.
+
 <img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/19f6a056-e0c4-435f-b352-3a7691ec5105" />
 
 
