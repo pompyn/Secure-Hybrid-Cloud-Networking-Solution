@@ -82,13 +82,9 @@ Validation confirmed that VLAN10, VLAN20, and VLAN30 were configured with unique
 
 ### DHCP Validation
 
-### DHCP Validation
-
 DHCP services were configured for VLAN10 (GovOps), VLAN20 (CivOps), and VLAN30 (ITAdmin). Validation confirmed that each VLAN was assigned a dedicated DHCP server and address pool, ensuring automatic IP address allocation within the appropriate network segment.
 
 <img width="584" height="123" alt="DHCP-validation" src="https://github.com/user-attachments/assets/057dfe6f-39c9-443c-8734-41f3cc2898c6" />
-
-### Firewall Policy Validation
 
 ### Firewall Policy Validation
 
