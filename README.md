@@ -108,7 +108,7 @@ Connectivity testing was performed to verify both permitted and restricted commu
 <br><br>
 <img width="700" height="416" alt="VLAN20" src="https://github.com/user-attachments/assets/562d831c-8315-45e5-8659-15342eeefa5b" />
 
-<br><br>
+<br>
 <img width="700" height="407" alt="VLAN30" src="https://github.com/user-attachments/assets/f2d9d4b9-148b-4985-865b-f64a7b4ffc82" />
 
 
