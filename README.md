@@ -67,13 +67,36 @@ The Azure environment extends the on-premises network into the cloud while maint
 - Validated connectivity and communication paths through structured testing.
 - Documented architecture and resource relationships to support future expansion and troubleshooting.
 
+## Validation & Testing
+
+The solution was validated through structured testing including VLAN segmentation verification, DHCP lease validation, routing table inspection, firewall rule testing, and inter-VLAN connectivity testing. Testing artifacts and screenshots were documented as part of the project deliverables.
 ## Security Features
 
-- VLAN segmentation to isolate workloads
-- Firewall policies restricting unauthorized communication
-- Controlled inter-VLAN routing
-- Network Security Groups protecting Azure resources
-- Separation of administrative and operational traffic
+## Validation & Testing
+
+### VLAN Segmentation Validation
+
+Description of what was tested.
+
+<img width="576" height="159" alt="ip-addressprint" src="https://github.com/user-attachments/assets/d970db6a-5322-43d0-bec2-e7d75d7d97ab" />
+
+### DHCP Validation
+
+Description of what was tested.
+
+Screenshot
+
+### Firewall Policy Validation
+
+Description of what was tested.
+
+Screenshot
+
+### Connectivity Validation
+
+Description of what was tested.
+
+Screenshot
 
 ## Business Value
 
