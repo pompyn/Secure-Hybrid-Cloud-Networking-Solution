@@ -19,12 +19,6 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 
 ### Azure Resource Architecture
 
-<img width="704" height="652" alt="Azure-Resource-Architecture" src="https://github.com/user-attachments/assets/d0dde045-a276-401c-8a67-ee1afbf4bccc" />
-
-
-Description
-
-
 **Azure Infrastructure**
 
 * Azure Virtual Network (10.1.0.0/16)
@@ -34,8 +28,6 @@ Description
 * Public IP Address
 * Network Interface Card (NIC)
 * Managed Disk Resources
-  The Azure environment extends the on-premises network into the cloud while maintaining security boundaries and supporting future hybrid cloud expansion.
-<img width="704" height="652" alt="Azure-Resource-Architecture" src="https://github.com/user-attachments/assets/eec33e9f-34b2-47ff-8582-9b52b4b7e9d5" />
 
 #### Environment
 
@@ -47,8 +39,6 @@ Description
 * GovOps VLAN
 * CivOps VLAN
 * ITAdmin VLAN
-
-  The on-premises environment was designed to simulate a segmented enterprise network supporting multiple departments while maintaining controlled communication through routing and security policies.
 
 
 * Implemented departmental network segmentation using VLANs.
