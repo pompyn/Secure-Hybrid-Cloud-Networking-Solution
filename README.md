@@ -60,7 +60,11 @@ Description
 
 ## Security Features
 
-...
+- VLAN segmentation to isolate workloads
+- Firewall policies restricting unauthorized communication
+- Controlled inter-VLAN routing
+- Network Security Groups protecting Azure resources
+- Separation of administrative and operational traffic
 
 ## Business Value
 
