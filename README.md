@@ -29,6 +29,8 @@ Designed and implemented a secure hybrid cloud networking solution using Azure a
 * Public IP Address
 * Network Interface Card (NIC)
 * Managed Disk Resources
+* <img width="704" height="652" alt="Azure-Resource-Architecture" src="https://github.com/user-attachments/assets/eec33e9f-34b2-47ff-8582-9b52b4b7e9d5" />
+
 
 #### Key Accomplishments
 
