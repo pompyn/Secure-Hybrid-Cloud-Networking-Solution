@@ -36,7 +36,12 @@ Description
 
 ### On-Premises Infrastructure
 
-...
+* GNS3 Network Simulation
+* MikroTik CHR Router
+* EXOS Layer 2 Switch
+* GovOps VLAN
+* CivOps VLAN
+* ITAdmin VLAN
 
 ### Azure Infrastructure
 
