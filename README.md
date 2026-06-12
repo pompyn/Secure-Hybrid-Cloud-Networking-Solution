@@ -56,7 +56,13 @@ Description
 
 ## Key Accomplishments
 
-...
+- Implemented departmental network segmentation using VLANs.
+- Configured DHCP services to automate IP address management.
+- Configured Layer 3 routing between isolated network segments.
+- Applied firewall policies and security controls to restrict unnecessary communication.
+- Built Azure virtual networking components supporting hybrid connectivity.
+- Validated connectivity and communication paths through structured testing.
+- Documented architecture and resource relationships to support future expansion and troubleshooting.
 
 ## Security Features
 
