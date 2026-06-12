@@ -1,4 +1,5 @@
 # Secure-Hybrid-Cloud-Networking-Solution
+
 ### 🌐 Secure Hybrid Cloud Networking Solution
 
 ## Skills Demonstrated
@@ -13,13 +14,31 @@
 - Technical Documentation
 - Network Troubleshooting
 
-#### Project Overview
+## Project Overview
 
 This project demonstrates the design and implementation of a secure hybrid cloud networking solution integrating an on-premises environment with Microsoft Azure. The solution uses VLAN segmentation, firewall policies, DHCP services, and Azure networking components to support secure communication while maintaining separation between departmental workloads.
 
+## Architecture Overview
+
+### On-Premises Network Topology
+
+<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
+
+Description
+
 ### Azure Resource Architecture
 
-**Azure Infrastructure**
+<img width="704" height="652" alt="Azure Resource Architecture" src="https://github.com/user-attachments/assets/da5d143e-76f9-46d8-ac9a-11367c0a0e30" />
+
+Description
+
+## Environment
+
+### On-Premises Infrastructure
+
+...
+
+### Azure Infrastructure
 
 * Azure Virtual Network (10.1.0.0/16)
 * Azure Subnet (10.1.0.0/24)
@@ -28,42 +47,17 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 * Public IP Address
 * Network Interface Card (NIC)
 * Managed Disk Resources
+  The Azure environment extends the on-premises network into the cloud while maintaining security boundaries and supporting future hybrid cloud expansion.
 
-#### Environment
+## Key Accomplishments
 
-**On-Premises Infrastructure**
+...
 
-* GNS3 Network Simulation
-* MikroTik CHR Router
-* EXOS Layer 2 Switch
-* GovOps VLAN
-* CivOps VLAN
-* ITAdmin VLAN
+## Security Features
 
+...
 
-* Implemented departmental network segmentation using VLANs.
-* Configured DHCP services to automate IP address management.
-* Configured Layer 3 routing between isolated network segments.
-* Applied firewall policies and security controls to restrict unnecessary communication.
-* Built Azure virtual networking components supporting hybrid connectivity.
-* Validated connectivity and communication paths through structured testing.
-* Documented architecture and resource relationships to support future expansion and troubleshooting.
-
-#### Architecture Overview
-
-### On-Premises Network Topology
-
-<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
-#### Security Features
-
-* VLAN-based network isolation
-* Layer 3 routing controls
-* Azure Network Security Groups
-* Firewall policy enforcement
-* Controlled communication between network segments
-* Secure hybrid cloud architecture
-
-#### Business Value
+## Business Value
 
 * Reduced attack surface through network segmentation.
 * Improved security for government and civilian workloads.
@@ -71,7 +65,8 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 * Demonstrated hybrid networking concepts used in enterprise and government environments.
 * Created a documented and repeatable architecture model for future deployments.
 
-#### Technologies Used
+
+## Technologies Used
 
 * Microsoft Azure
 * Azure Virtual Networks
@@ -85,7 +80,7 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 * Firewall Policies
 * TCP/IP Networking
 
-#### Lessons Learned
+## Lessons Learned
 
 * Effective network segmentation significantly reduces security risk.
 * Hybrid cloud environments require careful planning of addressing, routing, and access controls.
@@ -93,7 +88,7 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 * Detailed documentation simplifies troubleshooting, maintenance, and future expansion efforts.
 * Designing for scalability early reduces future architectural complexity.
 
-#### Future Enhancements
+## Future Enhancements
 
 * Site-to-Site VPN Integration
 * Azure VPN Gateway Deployment
