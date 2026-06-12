@@ -103,14 +103,14 @@ Connectivity testing was performed to verify both permitted and restricted commu
 * VLAN10 → VLAN20: Blocked
 * VLAN10 → VLAN30: Blocked
 
-![VLAN10]<img width="589" height="415" alt="VLAN10" src="https://github.com/user-attachments/assets/be60ead4-1ef1-4298-b16e-60dd9e102608" />
+<img width="589" height="415" alt="VLAN10" src="https://github.com/user-attachments/assets/be60ead4-1ef1-4298-b16e-60dd9e102608" />
 
+<br><br>
 
+<img width="578" height="416" alt="VLAN20" src="https://github.com/user-attachments/assets/562d831c-8315-45e5-8659-15342eeefa5b" />
 
-![VLAN20]<img width="578" height="416" alt="VLAN20" src="https://github.com/user-attachments/assets/562d831c-8315-45e5-8659-15342eeefa5b" />
-
-
-![VLAN30]<img width="589" height="407" alt="VLAN30" src="https://github.com/user-attachments/assets/f2d9d4b9-148b-4985-865b-f64a7b4ffc82" />
+<br><br>
+<img width="589" height="407" alt="VLAN30" src="https://github.com/user-attachments/assets/f2d9d4b9-148b-4985-865b-f64a7b4ffc82" />
 
 
 ### Security Features
