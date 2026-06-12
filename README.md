@@ -1,11 +1,23 @@
 # Secure-Hybrid-Cloud-Networking-Solution
 ### 🌐 Secure Hybrid Cloud Networking Solution
 
-* **Skills:** Azure Virtual Networking, Hybrid Cloud Architecture, VLAN Segmentation, Routing & Switching, DHCP, Firewall Policy Enforcement, Network Security Groups (NSGs), Network Troubleshooting, Technical Documentation, Cloud Infrastructure
+## Skills Demonstrated
+
+- Azure Virtual Networking
+- Hybrid Cloud Architecture
+- VLAN Segmentation
+- Inter-VLAN Routing
+- DHCP Configuration
+- Firewall Policy Implementation
+- Network Security
+- Technical Documentation
+- Network Troubleshooting
 
 #### Project Overview
 
-Designed and implemented a secure hybrid cloud networking solution using Azure and GNS3 to support both government and civilian workloads while maintaining network segmentation and secure communication between environments. The architecture demonstrates hybrid connectivity, departmental isolation through VLANs, Layer 3 routing, and cloud-based network security controls.
+## Project Overview
+
+This project demonstrates the design and implementation of a secure hybrid cloud networking solution integrating an on-premises environment with Microsoft Azure. The solution uses VLAN segmentation, firewall policies, DHCP services, and Azure networking components to support secure communication while maintaining separation between departmental workloads.
 
 #### Environment
 
@@ -21,6 +33,21 @@ Designed and implemented a secure hybrid cloud networking solution using Azure a
   The on-premises environment was designed to simulate a segmented enterprise network supporting multiple departments while maintaining controlled communication through routing and security policies.
 
 <img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/19f6a056-e0c4-435f-b352-3a7691ec5105" />
+
+
+## Architecture Overview
+
+### On-Premises Network Topology
+
+[Image]
+
+Description
+
+### Azure Resource Architecture
+
+[Image]
+
+Description
 
 
 **Azure Infrastructure**
