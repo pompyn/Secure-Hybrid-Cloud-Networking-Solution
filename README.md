@@ -1,4 +1,3 @@
-
 # Secure-Hybrid-Cloud-Networking-Solution
 ### 🌐 Secure Hybrid Cloud Networking Solution
 
@@ -17,23 +16,6 @@
 #### Project Overview
 
 This project demonstrates the design and implementation of a secure hybrid cloud networking solution integrating an on-premises environment with Microsoft Azure. The solution uses VLAN segmentation, firewall policies, DHCP services, and Azure networking components to support secure communication while maintaining separation between departmental workloads.
-
-#### Environment
-
-**On-Premises Infrastructure**
-
-* GNS3 Network Simulation
-* MikroTik CHR Router
-* EXOS Layer 2 Switch
-* GovOps VLAN
-* CivOps VLAN
-* ITAdmin VLAN
-
-  The on-premises environment was designed to simulate a segmented enterprise network supporting multiple departments while maintaining controlled communication through routing and security policies.
-
-<img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/19f6a056-e0c4-435f-b352-3a7691ec5105" />
-
-
 
 ### Azure Resource Architecture
 
@@ -55,8 +37,19 @@ Description
   The Azure environment extends the on-premises network into the cloud while maintaining security boundaries and supporting future hybrid cloud expansion.
 <img width="704" height="652" alt="Azure-Resource-Architecture" src="https://github.com/user-attachments/assets/eec33e9f-34b2-47ff-8582-9b52b4b7e9d5" />
 
+#### Environment
 
-#### Key Accomplishments
+**On-Premises Infrastructure**
+
+* GNS3 Network Simulation
+* MikroTik CHR Router
+* EXOS Layer 2 Switch
+* GovOps VLAN
+* CivOps VLAN
+* ITAdmin VLAN
+
+  The on-premises environment was designed to simulate a segmented enterprise network supporting multiple departments while maintaining controlled communication through routing and security policies.
+
 
 * Implemented departmental network segmentation using VLANs.
 * Configured DHCP services to automate IP address management.
