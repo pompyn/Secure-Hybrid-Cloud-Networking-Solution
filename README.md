@@ -110,6 +110,19 @@ Connectivity testing was performed to verify both permitted and restricted commu
 
 <img width="589" height="407" alt="VLAN30" src="https://github.com/user-attachments/assets/f2d9d4b9-148b-4985-865b-f64a7b4ffc82" />
 
+### Security Features
+## VLAN isolation
+Description
+img
+
+## NSG
+Description
+img
+
+## Firewall policies
+Description
+img
+
 ## Business Value
 
 * Reduced attack surface through network segmentation.
