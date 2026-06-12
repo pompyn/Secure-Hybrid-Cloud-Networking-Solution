@@ -76,27 +76,35 @@ The solution was validated through structured testing including VLAN segmentatio
 
 ### VLAN Segmentation Validation
 
-Description of what was tested.
+Validation confirmed that VLAN10, VLAN20, and VLAN30 were configured with unique subnets and gateways to maintain network segmentation and controlled communication.
 
 <img width="576" height="159" alt="ip-addressprint" src="https://github.com/user-attachments/assets/d970db6a-5322-43d0-bec2-e7d75d7d97ab" />
 
 ### DHCP Validation
 
-Description of what was tested.
+### DHCP Validation
 
-Screenshot
+DHCP services were configured for VLAN10 (GovOps), VLAN20 (CivOps), and VLAN30 (ITAdmin). Validation confirmed that each VLAN was assigned a dedicated DHCP server and address pool, ensuring automatic IP address allocation within the appropriate network segment.
+
+<img width="584" height="123" alt="DHCP-validation" src="https://github.com/user-attachments/assets/057dfe6f-39c9-443c-8734-41f3cc2898c6" />
 
 ### Firewall Policy Validation
 
-Description of what was tested.
+### Firewall Policy Validation
 
-Screenshot
+Firewall rules were implemented to enforce network segmentation and control communication between departmental VLANs. Validation confirmed that GovOps (VLAN10) was restricted from communicating with CivOps (VLAN20) and ITAdmin (VLAN30), while approved communication between CivOps and ITAdmin networks remained permitted. Administrative access controls were also configured for the ITAdmin network.
+
+<img width="576" height="533" alt="firewall-policy-validation" src="https://github.com/user-attachments/assets/baa01c5c-6c70-47c5-948d-30d09f7cb6f0" />
 
 ### Connectivity Validation
 
 Description of what was tested.
 
-Screenshot
+<img width="589" height="415" alt="VLAN10" src="https://github.com/user-attachments/assets/fa8f795d-8ece-4e45-848d-143e0261c622" />
+
+<img width="578" height="416" alt="VLAN20" src="https://github.com/user-attachments/assets/562d831c-8315-45e5-8659-15342eeefa5b" />
+
+<img width="589" height="407" alt="VLAN30" src="https://github.com/user-attachments/assets/f2d9d4b9-148b-4985-865b-f64a7b4ffc82" />
 
 ## Business Value
 
