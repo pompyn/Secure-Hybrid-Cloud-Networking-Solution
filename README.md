@@ -1,5 +1,5 @@
 # Secure-Hybrid-Cloud-Networking-Solution
-### 9. 🌐 Secure Hybrid Cloud Networking Solution
+### 🌐 Secure Hybrid Cloud Networking Solution
 
 * **Skills:** Azure Virtual Networking, Hybrid Cloud Architecture, VLAN Segmentation, Routing & Switching, DHCP, Firewall Policy Enforcement, Network Security Groups (NSGs), Network Troubleshooting, Technical Documentation, Cloud Infrastructure
 
