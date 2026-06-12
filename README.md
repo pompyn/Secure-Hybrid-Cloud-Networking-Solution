@@ -94,7 +94,17 @@ Firewall rules were implemented to enforce network segmentation and control comm
 
 ### Connectivity Validation
 
-Description of what was tested.
+Connectivity testing was performed to verify both permitted and restricted communication paths between VLANs. Validation confirmed that approved communication between CivOps (VLAN20) and ITAdmin (VLAN30) succeeded, while firewall policies correctly prevented unauthorized communication from GovOps (VLAN10) to other network segments.
+
+**Allowed Communication**
+
+* VLAN20 → VLAN30: Successful
+
+**Restricted Communication**
+
+* VLAN10 → VLAN20: Blocked
+* VLAN10 → VLAN30: Blocked
+
 
 <img width="589" height="415" alt="VLAN10" src="https://github.com/user-attachments/assets/fa8f795d-8ece-4e45-848d-143e0261c622" />
 
