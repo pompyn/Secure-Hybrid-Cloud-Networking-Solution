@@ -24,13 +24,15 @@ This project demonstrates the design and implementation of a secure hybrid cloud
 
 <img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/86abda38-5024-41c2-88ca-4bce03b8f2bc" />
 
-Description
+The on-premises environment uses VLAN segmentation to separate GovOps, CivOps, and ITAdmin workloads. An EXOS Layer 2 switch provides VLAN functionality while a MikroTik CHR router performs inter-VLAN routing and enforces security policies. This design demonstrates network segmentation, access control, and secure communication between departmental resources.
+
 
 ### Azure Resource Architecture
 
 <img width="704" height="652" alt="Azure Resource Architecture" src="https://github.com/user-attachments/assets/da5d143e-76f9-46d8-ac9a-11367c0a0e30" />
 
-Description
+The Azure environment consists of a Virtual Network, subnet, virtual machine, network interface, public IP address, managed disk, and Network Security Group. These resources provide secure cloud-hosted services and establish the foundation for future hybrid connectivity between Azure and the on-premises environment.
+
 
 ## Environment
 
@@ -52,7 +54,8 @@ Description
 * Public IP Address
 * Network Interface Card (NIC)
 * Managed Disk Resources
-  The Azure environment extends the on-premises network into the cloud while maintaining security boundaries and supporting future hybrid cloud expansion.
+ 
+The Azure environment extends the on-premises network into the cloud while maintaining security boundaries and supporting future hybrid cloud expansion.
 
 ## Key Accomplishments
 
