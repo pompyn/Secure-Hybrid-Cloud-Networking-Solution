@@ -17,6 +17,8 @@ Designed and implemented a secure hybrid cloud networking solution using Azure a
 * GovOps VLAN
 * CivOps VLAN
 * ITAdmin VLAN
+* <img width="630" height="333" alt="onprem-network" src="https://github.com/user-attachments/assets/19f6a056-e0c4-435f-b352-3a7691ec5105" />
+
 
 **Azure Infrastructure**
 
