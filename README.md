@@ -158,3 +158,12 @@ Administrative Separation
 * Centralized Logging and SIEM Connectivity
 * Identity Integration with Azure Active Directory
 * Infrastructure as Code (IaC) Deployment Templates
+
+
+---
+
+## Before vs. After
+
+Before: A flat, non-segmented network where GovOps, CivOps, and ITAdmin workloads could communicate freely, no boundary between government, civilian, and administrative systems.
+
+After: VLAN-segmented departmental networks with enforced firewall policies. Validated testing confirmed GovOps (VLAN10) is blocked from reaching CivOps and ITAdmin, while approved CivOps to ITAdmin communication still succeeds, segmentation working as designed, not just configured.
